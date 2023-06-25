@@ -23,3 +23,15 @@ h1 {
     margin-right: 100px;
     border-radius: 50px;
 }
+
+.image {
+    width: 25%;
+    height: 25%
+}
+
+.number5 {
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 1px 1px 2px green;
+}
